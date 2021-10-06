@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cody
 - 👀 I’m interested in playing volleyball, hiking and traveling.
-- 🌱 I’m currently learning Front-End Web Developing and other programming skills to build my resume.
+- 🌱 I’m currently learning Full-Stack Web Developing and other programming skills to build my resume and build a new career.
 - 💞️ I’m looking to collaborate on different languages in coding.
 - 📫 You can reach me at codyktestakis@gmail.com
 
